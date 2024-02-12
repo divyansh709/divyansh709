@@ -23,7 +23,7 @@
 <hr>
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-divyanshchauda321
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-divyansh709&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
