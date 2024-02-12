@@ -21,9 +21,9 @@
 📝 Check out my projects and contributions below!
 
 <hr>
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-divyansh709&theme=dark&background=000000)](https://git.io/streak-stats)
+LeetCode : https://leetcode.com/Dcoder77/   <br>
+GeeksForGeeks : https://auth.geeksforgeeks.org/user/divyanshchauda321
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
